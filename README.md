@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am a **Computer Science graduate** specializing in **Data Science and AI development**, passionate about building **intelligent, context-aware, and user-centric AI systems**. My work focuses on **Retrieval-Augmented Generation (RAG)**, **agent-based AI systems**, and **autonomous AI pipelines** that solve real-world problems.
+I am a **Computer Science graduate** from Monash University, specializing in **Data Science and AI development**, passionate about building **intelligent, context-aware, and user-centric AI systems**. My work focuses on **Retrieval-Augmented Generation (RAG)**, **agent-based AI systems**, and **autonomous AI pipelines** that solve real-world problems.
 
 ---
 
